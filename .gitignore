@@ -1,0 +1,8 @@
+app/etc/local.xml
+var/session/**/
+var/cache/**/
+var/report/
+errors/local.xml
+media/**/
+.idea/
+*.iml
