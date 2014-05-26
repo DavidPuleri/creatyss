@@ -1,0 +1,93 @@
+ 
+ 
+ 
+ 
+ 
+ 
+
+<div class="footer-container">
+	<div class="footer">
+	
+				<div class="footer1-container">
+		    <div class="footer1">
+				<div class="newsletter">	
+					<div class="headline">Newsletter</div>	    	
+		    				    	</div>
+		        
+		        <div class="footer-social">
+		        	<div class="headline">Suivez nous</div>
+    				    			</div>
+		    </div>
+		    <div class="clearer"></div>
+		</div>
+		
+				<div class="footer2-container">
+			<div class="footer2">
+				<div class="box1">
+        			<div class="headline">Customer Service</div>
+        			<ul>
+                	<li><a href="http://creatyss.puleri.com/customer-service/?___SID=U">Customer Service</a></li>
+                	<li><a href="http://creatyss.puleri.com/sales/guest/form/?___SID=U">Orders and Returns</a></li>
+                	<li><a href="http://creatyss.puleri.com/customer-service/?___SID=U">Shipping and Delivery</a></li>
+                	<li><a href="http://creatyss.puleri.com/catalog/seo_sitemap/category/?___SID=U">Sitemap</a></li>
+                </ul>        		</div>
+        		<div class="box2">
+        			<div class="headline">About Us</div>
+        			<ul>
+                	<li><a href="http://creatyss.puleri.com/about-magento-demo-store/?___SID=U">About Us</a></li>
+                	<li><a href="http://creatyss.puleri.com/privacy-policy-cookie-restriction-mode/?___SID=U">Privacy Policy</a></li>
+                	<li><a href="http://creatyss.puleri.com/contacts/?___SID=U">Contact Us</a></li>
+                	<li><a href="http://creatyss.puleri.com/customer-service/?___SID=U">Shopping Infos</a></li>	
+                </ul>        		</div>
+        		<div class="box3">
+        			<div class="headline">New Products</div>
+        			<ul>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                </ul>        		</div>
+        		<div class="box4">
+        			<div class="headline">Popular</div>
+        			<ul>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                	<li><a href="http://creatyss.puleri.com/#/?___SID=U">Textlink</a></li>
+                </ul>        		</div>
+        		<div class="box5">
+        			<div class="headline">My Account</div>
+        			        		</div>
+				<div class="clearer"></div>
+		    </div>
+		</div>
+		
+				<div class="footer3-container">
+			<div class="footer3">
+				<div class="footer-payments">
+					<ul class="payment-icons">
+                	<li><img src="http://creatyss.puleri.com/media/wysiwyg/pagayo/pt002/icon-payment-paypal.png" alt="PayPal"/></li>
+                	<li><img src="http://creatyss.puleri.com/media/wysiwyg/pagayo/pt002/icon-payment-visa.png" alt="Visa"/></li>
+                	<li><img src="http://creatyss.puleri.com/media/wysiwyg/pagayo/pt002/icon-payment-mastercard.png" alt="MasterCard"/></li>
+                	<li><img src="http://creatyss.puleri.com/media/wysiwyg/pagayo/pt002/icon-payment-amex.png" alt="Amercian Express"/></li>
+                	<li><img src="http://creatyss.puleri.com/media/wysiwyg/pagayo/pt002/icon-payment-moneybookers.png" alt="Moneybookers"/></li>
+                </ul>				</div>
+				<ul class="links">
+                	<li class="first"><a href="http://creatyss.puleri.com/about-magento-demo-store/?___SID=U">About Us</a></li>
+                	<li><a href="http://creatyss.puleri.com/customer-service/?___SID=U">Customer Service</a></li>
+                	<li><a href="http://creatyss.puleri.com/contacts/?___SID=U">Contact Us</a></li>
+                	<li><a href="http://creatyss.puleri.com/catalogsearch/advanced/?___SID=U">Advanced Search</a></li>
+                	<li><a href="http://creatyss.puleri.com/catalogsearch/term/popular/?___SID=U">Search Terms</a></li>
+                	<li><a href="http://creatyss.puleri.com/catalog/seo_sitemap/category/?___SID=U">Sitemap</a></li>
+                	<li><a class="link-rss" href="http://creatyss.puleri.com/rss/?___SID=U">RSS</a></li>
+                	<li><a href="http://creatyss.puleri.com/sales/guest/form/?___SID=U">Orders and Returns</a></li>
+                	<li class="last privacy"><a href="http://creatyss.puleri.com/privacy-policy-cookie-restriction-mode/?___SID=U">Privacy Policy</a></li>
+                </ul>    			<div class="copyright">
+					&copy; 2014 Magento Demo Store. All Rights Reserved. | <a href="http://www.pagayo.com" title="Magento Theme by www.pagayo.com" target="_blank">Theme by Pagayo</a>
+				</div>
+				<div class="clearer"></div>
+		    </div>
+		</div>
+		
+	</div>
+</div>
